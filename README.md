@@ -5,6 +5,7 @@ This project analyzes a synthetic dataset simulating a dynamic retail environmen
 
 The final deliverable is an interactive executive dashboard that translates complex purchasing patterns into strategic recommendations, focusing on optimizing inventory, targeting demographic segments, and capitalizing on seasonal trends.
 
+![Dashboard View](images/Dashboard.jpg).
 ---
 
 ## 2. Business Problem
